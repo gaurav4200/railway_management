@@ -1,0 +1,3 @@
+django-admin startproject railway_management
+cd railway_management
+django-admin startapp booking
